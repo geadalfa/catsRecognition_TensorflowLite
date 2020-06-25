@@ -11,4 +11,4 @@ Prediction Results
 ![](Images/prediction.JPG)
 
 
-Code belongs to Tensorflow with some modification by me
+Codes belong to Tensorflow with some modification by me
